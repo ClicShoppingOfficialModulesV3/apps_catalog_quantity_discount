@@ -16,7 +16,7 @@ Copy the QuantityDiscount directory into  Includes/Apps/Catalog/ directories
 Copy sources in sources directory
 Copy the apps_quantity_discount.json into ClicShopping/Work/Cache/Github
 
-Link to download the module : https://www.clicshopping.net/forum/files/file/5-quantities-discount/
+Link to download the module : https://www.clicshopping.org/forum/files/file/5-quantities-discount/
 
 licence  : GPL 2 - MIT
 
