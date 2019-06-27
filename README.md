@@ -29,5 +29,16 @@ and after go to insert or edit your products.
 See Marketplace for all informations
 Marketplace : https://www.clicshopping.org/forum/files/file/5-quantities-discount/
 
+All informations about the ClicShopping
+
+Community : https://www.clicshopping.org
+
+Software : https://github.com/ClicShopping
+
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+Community add on : https://github.com/ClicShoppingV3Community
+
+trademark License info : https://www.clicshopping.org/forum/trademark/
 
 ![quantitydiscount](https://github.com/ClicShoppingOfficialModulesV3/apps_catalog_quantity_discount/blob/master/ModuleInfosJson/quantity_discount_catalog.png)
