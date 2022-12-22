@@ -1,0 +1,31 @@
+heading_title = Products quantity discount
+module_qd_title = Products quantity discount
+module_qd_short_title = Products quantity discount
+
+text_products_quantity_discount =  Products quantity discount
+text_configure =  configure App Module
+
+text_intro = This app allow you to include a tab in admin products. <br /><br />
+- this modules come from with the module products quantity discount for the shop.<br />
+- Activate this module and activate the module products quantity discount located in the design menu
+
+module_qd_introduction = The install process create the database settings for this module and the access menu
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_related = Products quantity discount
+button_cancel = Cancel
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.

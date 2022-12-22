@@ -1,0 +1,6 @@
+module_products_info_quantity_discount_title = Do you want to display the sheet of quantity discount ?
+module_products_info_quantity_discount_description = Display the sheet of quantity discount
+
+text_quantity = Quantity
+text_discount = Discount
+text_new_price = Price without taxes

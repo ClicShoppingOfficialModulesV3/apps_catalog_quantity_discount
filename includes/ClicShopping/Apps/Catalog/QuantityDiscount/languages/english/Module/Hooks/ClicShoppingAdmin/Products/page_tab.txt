@@ -1,0 +1,56 @@
+  tab_quantity_discount = Product discount
+
+button_add = Add
+
+table_quantity_discount = Quantity discount
+table_products_quantity_discount  = Quantity discount
+table_heading_id = Id
+table_heading_supplier = Supplier
+table_heading_customers_group = Customers group
+table_heading_quantity_range = Quantity range
+table_heading_supplier_price = Supplier price
+table_heading_percentage_customer_discount = % Customer discount
+table_heading_specification_action = Action
+
+text_supplier_price = Supplier price
+text_quantity = Qty
+text_products_quantity_discount = Quantity discount
+
+text_qty_range = Qty range
+
+text_discount_customer = Without %
+
+title_help_general = Help
+text_help_general_tab9 =
+<div class="col-md-4">
+    <strong>Important :</strong>
+    the range must write like this :<br />
+    - 5 for the the first range<br />
+    - 10 Start 5 and + for the 2nd range<br /><br />
+    - If the supplier is selected by default, it will automaticily displayed in the quantity discount. You can only selected 1 and 1 supplier br product<br />
+    - <strong>The % discount must be a number without the sign (%) and - </strong>.
+</div>
+
+<div class="col-md-6">
+- Sheet Example displayed to customers<br />
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>quantity</th>
+      <th class="col-md-1">1</th>
+      <th class="col-md-1">5 et +</th>
+      <th class="col-md-1">>10 et +</th>
+      <th class="col-md-1">20 et +</th>
+      <th class="col-md-1">0 et +</th>
+    </tr>
+  </thead>
+  <tbody>
+    <th>discount</th>
+    <th class="col-md-1">5%</th>
+    <th class="col-md-1">10%</th>
+    <th class="col-md-1">20%</th>
+    <th class="col-md-1">30%</th>
+    <th class="col-md-1">40%</th>
+  </tbody>
+</table>
+</div>

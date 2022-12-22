@@ -1,0 +1,55 @@
+tab_quantity_discount = Remise par Quantité
+
+button_add = Add
+
+table_quantity_discount = Remise par Quantité
+table_products_quantity_discount  = Remise par Quantité
+table_heading_id = Id
+table_heading_supplier = Fournisseur
+table_heading_customers_group = Groupes Clients
+table_heading_quantity_range = Range Quantité
+table_heading_supplier_price = Prix achat Fournisseur
+table_heading_percentage_customer_discount = % Remise Client
+table_heading_specification_action = Action
+
+text_supplier_price = prix fournisseur
+text_quantity = Qté
+text_products_quantity_discount = Remise sur quantité
+text_qty_range = Qté min
+
+text_discount_customer = Remise en %
+
+title_help_general = Aide
+text_help_general_tab9 =
+<div class="col-md-12">
+<strong>important :</strong>
+le range doit s'écrire comme suit :<br />
+- 1 pour le premier range<br />
+- 5 A partir de 5 et + pour la deuxième rangée<br /><br />
+- Si le fournisseur de la fiche est sélectionné par défaut, celui-ci est automatiquement affiché dans la fiche de remise par quantité. Il est uniquement possible de sélectionner que 1 et 1 seule fournisseur par fiche produit<br />
+- <strong>La remise en pourcentage doit être un nombre sans le signe en pourcentage (%) et - </strong>.
+</div>
+
+<div class="col-md-4">
+- Exemple de tableau pouvant apparaitre au client<br />
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>quantité</th>
+      <th class="col-md-1">1</th>
+      <th class="col-md-1">5 et +</th>
+      <th class="col-md-1">>10 et +</th>
+      <th class="col-md-1">20 et +</th>
+      <th class="col-md-1">0 et +</th>
+    </tr>
+  </thead>
+  <tbody>
+    <th>remise</th>
+    <th class="col-md-1">5%</th>
+    <th class="col-md-1">10%</th>
+    <th class="col-md-1">20%</th>
+    <th class="col-md-1">30%</th>
+    <th class="col-md-1">40%</th>
+  </tbody>
+</table>
+</div>

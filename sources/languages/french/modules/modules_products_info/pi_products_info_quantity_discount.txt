@@ -1,0 +1,6 @@
+module_products_info_quantity_discount_title = Souhaitez-vous afficher le tableau de remise par quantité ?
+module_products_info_quantity_discount_description = Affiche un tableau de remise par quantité dans la page de description du produit
+
+text_quantity = Quantité
+text_discount = Remise
+text_new_price = Prix hors Taxes
